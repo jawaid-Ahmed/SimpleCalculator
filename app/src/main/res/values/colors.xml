@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">@color/black</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="actionButton">#F57C00</color>
+    <color name="numberButton">#455A64</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="orange_10">#E27300</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange_7">#EE592A</color>
+    <color name="Transperent">#00FFFFFF</color>
+
+    //codes for night mode
+    <color name="cbackgroundnight">#3e4243</color>
+    <color name="cresulttextolornight">#3f4344</color>
+    <color name="cnumbersbuttoncolornight">#3c3d40</color>
+    <color name="cdarkpurplenight">#3f4344</color>
+    <color name="clightpurplenight">#8f27e0</color>
+    <color name="cdarkbrownnight">#4a4339</color>
+    <color name="cnumberbtnnight">#3b3c40</color>
+    <color name="cclearbtnnight">#fdb82f</color>
+
+    //codes for day mode
+    <color name="cbackgroundday">#f9f9f9</color>
+    <color name="cresulttextolorday">#3f4344</color>
+    <color name="cnumbersbuttoncolorday">#3c3d40</color>
+    <color name="cdarkpurpleday">#e1d5e9</color>
+    <color name="clightpurpleday">#922ae5</color>
+    <color name="cdarkbrownday">#f6f0e4</color>
+    <color name="cnumberbtnday">#f4f5f7</color>
+    <color name="cclearbtnday">#fdb82f</color>
+</resources>
